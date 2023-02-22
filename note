@@ -1,8 +1,0 @@
-start the program
-initialize an infinite loop
-readline from the user
-tokenize the command
-check for the type of command it is
-if the command is not builtin and invalid 
-	fork a new process
-execute the process
